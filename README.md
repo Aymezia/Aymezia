@@ -5,10 +5,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33ai01Ufj3i6c/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJxN3dpbm94aGl3aHF3Z3JtOHV2b3M5Y3JxZmJkYnJ3YXJ3YXJ3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buirYcmV5nSwIRW/giphy.gif" width="100%" />
 </p>
-
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
 ---
 
@@ -42,10 +40,8 @@ I work with a variety of languages and technologies:
 
 📫 **Connect With Me**
 
-<p align="left">
-  <a href="https://aymezia.cc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Website" height="30" width="40" /></a>
-  <a href="https://zia.aymezia.cc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Bot" height="30" width="40" /></a>
-</p>
+- 🌐 Website: [Aymezia.cc](https://aymezia.cc)
+- 🤖 Discord Bot: [Zia.aymezia.cc](https://zia.aymezia.cc)
 
 ---
 
