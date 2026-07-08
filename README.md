@@ -1,7 +1,7 @@
 ---
 
 - 🔭 I'm the creator of **Aymezia.cc** — my personal website
-- 🤖 I developed **Zia**, a Discord bot available at [ziassh.org](https://ziassh.org)
+- 🤖 I developed **Zia**, a Discord bot and site web for a gaming linktree available at [ziassh.org](https://ziassh.org)
 - 🧠 **Self-taught developer** — I love learning and mastering new technologies on my own
 - 💻 Programming is my passion, creativity is my drive
 - 🎵 Music lover — Always have something playing
@@ -30,6 +30,6 @@ I work with a variety of languages and technologies:
 📫 **Connect With Me**
 
 - 🌐 Website: [Aymezia.cc](https://aymezia.cc)
-- 🤖 Discord Bot: [Ziassh.org](https://ziassh.org)
+- 🤖 Ziassh: [Ziassh.org](https://ziassh.org)
 
 ---
