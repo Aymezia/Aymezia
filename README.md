@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Aymezia" />
 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJxN3dpbm94aGl3aHF3Z3JtOHV2b3M5Y3JxZmJkYnJ3YXJ3YXJ3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buirYcmV5nSwIRW/giphy.gif" width="100%" />
-</p>
-
 ---
 
 - 🔭 I'm the creator of **Aymezia.cc** — my personal website
