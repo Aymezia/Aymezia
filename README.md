@@ -20,13 +20,6 @@ I work with a variety of languages and technologies:
 
 ---
 
-📊 **Stats**
-
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aymezia&theme=tokyonight)
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aymezia&theme=tokyonight)
-
----
-
 📫 **Connect With Me**
 
 - 🌐 Website: [Aymezia.cc](https://aymezia.cc)
